@@ -1,0 +1,15 @@
+C:\Users\Obseq\OneDrive - SNHU\Documents\assignments\High or Low\bin\Debug\net8.0\High or Low.exe
+C:\Users\Obseq\OneDrive - SNHU\Documents\assignments\High or Low\bin\Debug\net8.0\High or Low.deps.json
+C:\Users\Obseq\OneDrive - SNHU\Documents\assignments\High or Low\bin\Debug\net8.0\High or Low.runtimeconfig.json
+C:\Users\Obseq\OneDrive - SNHU\Documents\assignments\High or Low\bin\Debug\net8.0\High or Low.dll
+C:\Users\Obseq\OneDrive - SNHU\Documents\assignments\High or Low\bin\Debug\net8.0\High or Low.pdb
+C:\Users\Obseq\OneDrive - SNHU\Documents\assignments\High or Low\obj\Debug\net8.0\High or Low.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Obseq\OneDrive - SNHU\Documents\assignments\High or Low\obj\Debug\net8.0\High or Low.AssemblyInfoInputs.cache
+C:\Users\Obseq\OneDrive - SNHU\Documents\assignments\High or Low\obj\Debug\net8.0\High or Low.AssemblyInfo.cs
+C:\Users\Obseq\OneDrive - SNHU\Documents\assignments\High or Low\obj\Debug\net8.0\High or Low.csproj.CoreCompileInputs.cache
+C:\Users\Obseq\OneDrive - SNHU\Documents\assignments\High or Low\obj\Debug\net8.0\High or Low.sourcelink.json
+C:\Users\Obseq\OneDrive - SNHU\Documents\assignments\High or Low\obj\Debug\net8.0\High or Low.dll
+C:\Users\Obseq\OneDrive - SNHU\Documents\assignments\High or Low\obj\Debug\net8.0\refint\High or Low.dll
+C:\Users\Obseq\OneDrive - SNHU\Documents\assignments\High or Low\obj\Debug\net8.0\High or Low.pdb
+C:\Users\Obseq\OneDrive - SNHU\Documents\assignments\High or Low\obj\Debug\net8.0\High or Low.genruntimeconfig.cache
+C:\Users\Obseq\OneDrive - SNHU\Documents\assignments\High or Low\obj\Debug\net8.0\ref\High or Low.dll
